@@ -1,0 +1,41 @@
+Next Token is: id Next lexeme is: x
+Next Token is: whitespace Next lexeme is:  
+Next Token is: = Next lexeme is: =
+Next Token is: whitespace Next lexeme is:  
+Next Token is: int Next lexeme is: 3
+Next Token is: whitespace Next lexeme is: 
+Next Token is: id Next lexeme is: y
+Next Token is: whitespace Next lexeme is:  
+Next Token is: = Next lexeme is: =
+Next Token is: whitespace Next lexeme is:  
+Next Token is: int Next lexeme is: 5
+Next Token is: whitespace Next lexeme is: 
+Next Token is: id Next lexeme is: z
+Next Token is: whitespace Next lexeme is:  
+Next Token is: = Next lexeme is: =
+Next Token is: whitespace Next lexeme is:  
+Next Token is: ( Next lexeme is: (
+Next Token is: id Next lexeme is: x
+Next Token is: whitespace Next lexeme is:  
+Next Token is: + Next lexeme is: +
+Next Token is: whitespace Next lexeme is:  
+Next Token is: id Next lexeme is: y
+Next Token is: ) Next lexeme is: )
+Next Token is: whitespace Next lexeme is:  
+Next Token is: / Next lexeme is: /
+Next Token is: whitespace Next lexeme is:  
+Next Token is: int Next lexeme is: 3
+Next Token is: whitespace Next lexeme is: 
+Next Token is: print Next lexeme is: print
+Next Token is: whitespace Next lexeme is:  
+Next Token is: id Next lexeme is: z
+Next Token is: whitespace Next lexeme is:  
+Next Token is: ( Next lexeme is: (
+Next Token is: ( Next lexeme is: (
+Next Token is: ( Next lexeme is: (
+Next Token is: unknown Next lexeme is: unknown
+Next Token is: unknown Next lexeme is: unknown
+Next Token is: ) Next lexeme is: )
+Next Token is: ) Next lexeme is: )
+Next Token is: ) Next lexeme is: )
+Next Token is: eof Next lexeme is: eof
